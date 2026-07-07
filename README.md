@@ -1,7 +1,7 @@
 # Logistics-Operations
 Healthcare Operations and Logistics Intelligence Dashboard (SQL + PowerBi Project)
 
-#Project Objective
+#Objective
 This project analyzes a multi-table logistics dataset restructured into a healthcare operations system to evaluate workforce efficiency, hospital performance, operational costs, patient movement, and service delivery.
 
 #Primary goals:
